@@ -1,4 +1,2 @@
 # TorrentMovie
-Download movies through Torrent
-
-Using Express js 
+Download movies through Torrent using Express js 
